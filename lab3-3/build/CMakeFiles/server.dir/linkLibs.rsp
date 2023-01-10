@@ -1,0 +1,1 @@
+  -L"C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-3/lib"  -lws2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-3/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/server.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\server.dir\\src\\server.cpp.obj -c C:\\Users\\Administrator\\Desktop\\course3-1\\computer_network\\lab3-3\\src\\server.cpp",
+  "file": "C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-3/src/server.cpp"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-3/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe  @CMakeFiles/client.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\client.dir\\src\\client.cpp.obj -c C:\\Users\\Administrator\\Desktop\\course3-1\\computer_network\\lab3-3\\src\\client.cpp",
+  "file": "C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-3/src/client.cpp"
+}
+]

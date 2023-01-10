@@ -1,0 +1,12 @@
+{
+  "cmake.generator": "MinGW Makefiles",
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "cmake.configureOnOpen": false,
+  "files.associations": {
+    "*.ejs": "html",
+    "*.h": "c",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "istream": "cpp"
+  }
+}

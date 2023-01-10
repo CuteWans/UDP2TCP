@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\client.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\client.dir/objects.a @CMakeFiles\client.dir\objects1
+C:\TDM-GCC-64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\client.dir/objects.a -Wl,--no-whole-archive -o client.exe -Wl,--out-implib,libclient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\client.dir\linkLibs.rsp

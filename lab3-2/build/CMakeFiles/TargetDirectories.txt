@@ -1,0 +1,4 @@
+C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-2/build/CMakeFiles/server.dir
+C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-2/build/CMakeFiles/client.dir
+C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-2/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/course3-1/computer_network/lab3-2/build/CMakeFiles/rebuild_cache.dir
